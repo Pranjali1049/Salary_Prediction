@@ -40,7 +40,7 @@ Each model's performance was evaluated using several regression metrics, includi
 ![Feature Importance](images/Feature_Imp.png)
 *A bar chart depicting the importance of different features in predicting salary.*
 
-##Results
+## Results
 
 1. The Random Forest model achieved the highest R-squared score and the lowest error metrics (MSE, MAE, RMSE), indicating superior predictive performance compared to the other models.
 2. The Decision Tree model also performed well but had higher errors than the Random Forest.
