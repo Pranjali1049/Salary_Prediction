@@ -10,21 +10,22 @@ We checked for missing values in the dataset and removed rows with missing data,
 
 ## Data Visualization
 
-### Age Distribution
-![Age Distribution](images/age_distribution.png)
-*This histogram shows the distribution of ages in the dataset.*
 
-### Gender Distribution
-![Gender Distribution](images/gender_distribution.png)
-*A pie chart representing the gender distribution among the dataset.*
+### Top 10 Highest Earning Professions
+![Gender Distribution](images/Top10.png)
+*A Bar plot depicting the highest paying job titles versus the mean salary.*
 
-### Salary vs. Education
-![Salary vs. Education](images/salary_education.png)
-*A boxplot displaying the relationship between education level and salary.*
+### Distribution of Continuous Variables
+![Age Distribution](images/Distribution.png)
+*This histogram shows the distribution of continuous variables in the dataset.*
+
+### Distribution of Education and Gender
+![Salary vs. Education](images/ed&gender_distribution.png)
+*A plot displaying the Education Level and Gender.*
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
-*A heatmap illustrating the correlation between different features and salary.*
+![Correlation Heatmap](images/Heatmap.png)
+*A heatmap illustrating the correlation between different features.*
 
 ## Model Building and Evaluation
 
