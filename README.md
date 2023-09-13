@@ -36,7 +36,7 @@ We explored various machine learning algorithms, including Linear Regression, De
 We evaluated the models using metrics such as Mean Squared Error (MSE) and R-squared (R2) to measure prediction accuracy. The best-performing model achieved an MSE of X and an R2 score of Y on the test set.
 
 ### Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/Feature_Imp.png)
 *A bar chart depicting the importance of different features in predicting salary.*
 
 ## Conclusion
